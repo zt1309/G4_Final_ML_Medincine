@@ -115,7 +115,7 @@ Nowadays, deep learning technique is very strong and has been widely used in man
 \subsection{Mask R-CNN Architecture}
 Mask R-CNN, as proposed by Kaiming He~\cite{He2017}, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition. Mask R-CNN is simple to train and adds only a small overhead to Faster R-CNN, running at 5 fps, good for segmentation tasks.
 
-In figure 2, the mask R-CNN architecture consists of a backbone network (such as ResNet) for feature extraction, followed by a Region Proposal Network (RPN) that generates candidate object proposals. The architecture then includes a RoIAlign layer to precisely extract features for each proposal, which are fed into two parallel branches: one for bounding box regression and classification, and another for pixel-wise mask prediction. 
+In figure 2, the mask R-CNN architecture consists of a backbone network for feature extraction, followed by a Region Proposal Network (RPN) that generates candidate object proposals. The architecture then includes a RoIAlign layer to precisely extract features for each proposal, which are fed into two parallel branches: one for bounding box regression and classification, and another for pixel-wise mask prediction. 
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.48\textwidth]{images/MaskRCNN architectur.pdf}
