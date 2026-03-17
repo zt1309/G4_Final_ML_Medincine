@@ -13,7 +13,7 @@ This repository contains the full code and report for an automated framework des
 * Nguyen Minh Dat
 * Duong Tuan Kiet
 
-Lecturer: TS. Tran Giang Son
+Lecturer:Tran Giang Son
 
 ---
 
