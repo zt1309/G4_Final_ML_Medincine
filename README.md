@@ -46,7 +46,7 @@ The Mask R-CNN model achieved the following segmentation performance:
 
 ## Resources
 * Full Report: [Report_G4.pdf](./Report_G4.pdf)
-* Data and Models (Google Drive): [Link to Drive](https://drive.google.com/drive/u/2/folders/1_LgTJsR1SbFWsIUyCqKOzIoQ1PMWCcTj)
+* Full code and report (Google Drive): [Link to Drive](https://drive.google.com/drive/u/2/folders/1_LgTJsR1SbFWsIUyCqKOzIoQ1PMWCcTj)
 
 ---
 University of Science and Technology of Hanoi (USTH)
